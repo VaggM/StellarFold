@@ -1,5 +1,5 @@
 # StellarFold
-This is the project of team "LOONatics" for the challenge "Hunting for exoplanets using AI" in the hackathon "NASA Space Apps Challenge 2025", which took place at Piraeus, Greece.
+This is the project of team "LOONatics" for the challenge "Hunting for Exoplanets using AI" in the hackathon "NASA Space Apps Challenge 2025", which took place at Piraeus, Greece.
 
 Documentation: [README.pdf](./README.pdf)
 
